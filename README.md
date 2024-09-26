@@ -1,7 +1,7 @@
 # Hello, I'm Christian Salazar
 <a href="https://linkedin.com/in/christian-salazar-iv"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
 I have recently found a new interest in Networking and want to explore this field even more as well as technology
 
