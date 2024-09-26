@@ -1,12 +1,10 @@
 # Hello, I'm Christian Salazar
 <a href="https://linkedin.com/in/christian-salazar-iv"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I have recently found a new interest in Networking and want to explore this field even more, as well as technology, and to learn as much as I can 
 
 ## Objective
-[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
