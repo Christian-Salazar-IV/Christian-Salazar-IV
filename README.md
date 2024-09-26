@@ -6,7 +6,7 @@
 I have recently found a new interest in Networking and want to explore this field even more as well as technology
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
