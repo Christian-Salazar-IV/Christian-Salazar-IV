@@ -3,7 +3,7 @@
 
 [Brief Introduction]
 
-I have recently found a new interest in Networking and want to explore this field even more as well as technology
+I have recently found a new interest in Networking and want to explore this field even more, as well as technology
 
 ## Objective
 [Provide Objective]
