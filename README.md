@@ -9,5 +9,7 @@ The main menu of Tech Stack is Linux (like Kail), building networks (in my home)
 Fun Fact:
 
   I don't like coffee
+  
   I have builded two configuration for my networks for the first time
+ 
   Hobbies: brazilian Jiu-Jitsu, gym, building things
